@@ -1,0 +1,27 @@
+{
+  "name": "BURUMAL - Shop Burundi",
+  "short_name": "BURUMAL",
+  "description": "Discover products from trusted Burundian sellers",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "e-commerce"],
+  "lang": "en",
+  "dir": "ltr"
+}
